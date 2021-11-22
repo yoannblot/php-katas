@@ -1,0 +1,19 @@
+{
+  "name": "yoann/php-katas",
+  "description": "PHP Katas to learn TDD",
+  "type": "project",
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "yoann",
+      "email": "yoann.blot@gmail.com"
+    }
+  ]
+}
